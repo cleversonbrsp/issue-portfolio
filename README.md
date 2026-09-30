@@ -23,6 +23,7 @@ Each write-up mirrors the same structure used in my personal Notion portfolio: a
 - `java-apps/`
   - `Application Unavailability from Excessive Auth Sessions.md`
   - `Java App Crash Loop from OCI Virtual Node File Descriptor Ulimit.md`
+  - `Java App Ephemeral Disk Exhaustion from Oversized Report Redelivered by Queue.md`
   - `Java App Recurring OOM from Stuck Report Job.md`
 - `github-actions/`
   - `Build Failure from Missing Nexus Artifact and Stale Maven Cache.md`
